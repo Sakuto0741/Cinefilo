@@ -1,3 +1,9 @@
+# src/feacure_engineering.py
+# Este módulo contiene funciones para la ingeniería de características en el contexto de un recomendador de películas.
+# Las funciones incluyen la creación de una "sopa de palabras" a partir de géneros y palabras clave, la vectorización del texto utilizando TF-IDF o CountVectorizer, y el cálculo de la matriz de similitud de coseno.
+# Autor: [Kevin Santiago Silva Serna]
+# Fecha: [12 de junio de 2025]
+
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity

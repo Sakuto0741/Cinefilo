@@ -1,3 +1,9 @@
+# src/recommender.py
+# Este módulo contiene funciones para recomendar películas basadas en un título dado.
+# Las funciones incluyen la recomendación de películas similares utilizando una matriz de similitud de coseno.
+# Autor: [Kevin Santiago Silva Serna]
+# Fecha: [12 de junio de 2025]
+
 import pandas as pd
 
 def recomendar_peliculas(titulo, df, sim_matrix, top_n=5):

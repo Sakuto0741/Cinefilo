@@ -1,3 +1,9 @@
+# Cinélifo - Recomendador de Películas
+# main.py
+# Este es el punto de entrada principal para el programa Cinélifo, un recomendador de películas.
+# Autor: [Kevin Santiago Silva Serna]
+# Fecha: [12 de junio de 2025]
+
 from src.data_cleaning import cargar_y_limpiar_datos 
 from src.feature_engineering import crear_sopa_de_palabras, vectorizar_texto, calcular_matriz_similitud
 from src.recommender import recomendar_peliculas

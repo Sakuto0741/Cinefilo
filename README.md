@@ -55,14 +55,17 @@ Construido desde cero con Python, este proyecto fue desarrollado como reto perso
    ```bash
    git clone https://github.com/Sakuto0741/Cin-lifo.git
    cd Cin-lifo
+   ```
    
 2. Instala los requisitos:
    ```bash
    pip install -r requirements.txt
+   ```
    
 3. Ejecuta el programa:
    ```bash
    python main.py
+   ```
 
 4. Ingresa el título de una película (en ingles, como aparece en IMDb) y recibe sugerencias.
 
@@ -70,7 +73,7 @@ Construido desde cero con Python, este proyecto fue desarrollado como reto perso
 
 ##  Dataset
 
-Se usó el dataset movie_metadat.csv proveniente de IMDb, con columnas como:
+Se usó el dataset movie_metadata.csv proveniente de IMDb, con columnas como:
 - movie_title
 - genres
 - plot_keywords
@@ -85,4 +88,4 @@ Se usó el dataset movie_metadat.csv proveniente de IMDb, con columnas como:
 ##  Autor
 
 Desarrollado por Kevin Santiago Silva Serna como parte de un reto personal de 10 proyectos en 2 semanas.
-Contacto LinkedIn: www.linkedin.com/in/kevin-silva-dev
+Contacto LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevin-silva-dev)
