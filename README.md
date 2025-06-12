@@ -21,12 +21,8 @@ Construido desde cero con Python, este proyecto fue desarrollado como reto perso
 
   ```bash
   cinelifo/
-  ├── .venv/
-  │
   ├── data/archive
   │ └── movie_metadata.csv # Dataset original (IMDb)
-  │
-  ├── env/
   │
   ├── src/
   │ ├── data_cleaning.py # Limpieza de datos y normalización textual
