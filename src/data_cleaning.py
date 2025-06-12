@@ -1,3 +1,11 @@
+"""
+# src/data_cleaning.py
+# Este módulo contiene funciones para cargar y limpiar los datos de películas desde un archivo CSV.
+# Las funciones incluyen la eliminación de columnas irrelevantes, el manejo de valores nulos, la normalización de datos y la división de columnas en listas.
+# Autor: [Kevin Santiago Silva Serna]
+# Fecha: [12 de junio de 2025]
+# """
+
 import pandas as pd
 import re
 # -------------------------------------------------------Limpieza de datos-------------------------------------------------------
